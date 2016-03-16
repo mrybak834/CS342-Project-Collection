@@ -1,3 +1,6 @@
 [submodule "MineSweeper"]
 	path = MineSweeper
 	url = https://github.com/rdogg312/MineSweeper
+[submodule "RSA-Java"]
+	path = RSA-Java
+	url = https://github.com/mrybak834/RSA-Java
