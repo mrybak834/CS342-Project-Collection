@@ -7,3 +7,6 @@
 [submodule "Chat"]
 	path = Chat
 	url = https://github.com/mrybak834/Chat/
+[submodule "Java-Tetris"]
+	path = Java-Tetris
+	url = https://github.com/mrybak834/Java-Tetris
